@@ -1,1 +1,2 @@
-
+facebook.com, 530063492124417, DIRECT, c3e20eee3f780d68
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
